@@ -1,4 +1,4 @@
-[firewall lab.md](https://github.com/user-attachments/files/29610584/firewall.lab.md)
+
 # firewall lab
 
 ---
