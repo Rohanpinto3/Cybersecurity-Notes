@@ -39,7 +39,7 @@ IPS doesn't just alerts but it responds to the incident by preventing it from ha
 
 # Intrusion Detection System(IDS) :
 
-![image.png](image.png)
+<img width="651" height="701" alt="image" src="https://github.com/user-attachments/assets/f8eb06e4-4033-40c5-9738-a81c9ec9c8e8" />
 
 network traffic come through the internet to the router and then firewall then to the switch, switch will mirror a copy and sends the traffic to the destination. NOW if this was some malicious traffic which was missed out by the firewall and something bad happens to the computer then picked up by the IDS it will send an alert whether it is an email or a text message or through the SIEM tool. 
 
@@ -50,8 +50,12 @@ now someone must receive that message and come check the host computer  and remo
 
 # Intrusion Prevention System(IPS) :
 
-![image.png](image%201.png)
+<img width="634" height="677" alt="image 1" src="https://github.com/user-attachments/assets/7970fedc-c76e-4a0d-9758-52cfa088eeaa" />
 
 network traffic come through the internet to the router and then firewall then pass through IPS 
 
 and to the host computer which is inline with the IPS, NOW lets  say something bad happen and the traffic turns out to be an malicious traffic THEN it gets picked up by the IPS and not only it sends an alert, it can be configured to cut of the network of the host.
+
+
+
+
